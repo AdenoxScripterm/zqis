@@ -1,6 +1,0 @@
-local p = game:GetService("Players").LocalPlayer
-
-local da = true
-
-if da then
-p:Kick("Delta Can't Execute This Script")
